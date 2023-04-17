@@ -24,7 +24,7 @@
 - 💻 Computer Science Student at the University of London
 - 🎓 Apple Developer Academy Graduate
 - 🔭 Clean Code and Best Procedures fanatic
-- ⚡ Algo & DS Lover
+- ⚡ Algorithms & Data Structures Lover
  
 ## 🚀 Languages and Technologies
 - **Mobile Development**
