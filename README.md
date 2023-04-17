@@ -18,15 +18,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm Roberto</h1>
 
 <p align="center">
-I am a <b>Software Engineer</b> specialized in Native Mobile Development with over 3 years of professional experience in the field. During my time with the Apple Developer Academy, I have acquired a comprehensive knowledge of the iOS Application Development process by successfully developing several applications. The variety of projects in which I have subsequently worked on, during my years as a professional developer, allowed me to integrate Android Development skills into my technical background.
+I am a <b>Software Engineer</b> specialized in Native Mobile Development with over 3 years of professional experience in the field.
 </p>
 
  <!-- GitHub About me section start -->
  ## 👨‍💻About Me:
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
-- ⚡ I'm a Computer Engineer student at the University of London
-- 🚀 I’m interested in Web & Mobile Development
+- ⚡ I’m interested in Web & Mobile Development
+- 🔭 Computer Science student at the University of London
+- 🚀 Apple Developer Academy Graduate
 - 👨‍💻 All of my projects are available at 
 
 <!-- GitHub About me section end -->
