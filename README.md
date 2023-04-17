@@ -25,7 +25,7 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 - 🎓 Apple Developer Academy Graduate
 - 👨‍💻 Web & Mobile Developer
 - 💻 Computer Science Student at the University of London
-
+ 
 ## 🚀 Languages and Technologies:
 - **Mobile Development**
 	
