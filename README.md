@@ -152,43 +152,23 @@
 	</center>
 
 ## ⚙️ Projects
-
 - **iOS**
-
 <center>
-		<table>			
-		<tbody>
-				<tr>
-
-<a href="https://github.com/Roberto2194/Snake">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-</a> 
-
-<a href="https://github.com/Roberto2194/Snake">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-</a> 
-
-</tr>
-			</tbody>
-		</table>
-	</center>
+<a href="https://github.com/Roberto2194/SandwichUp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SandwichUp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+</a>&nbsp; 
+<a href="https://github.com/Roberto2194/SandwichUp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SandwichUp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+</a><br><br>
+</center>
 
 - **Android**
 
 <center>
-		<table>			
-		<tbody>
-				<tr>
-
-<a href="https://github.com/Roberto2194/SandwichUp">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SandwichUp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-</a> 
-
-<a href="https://github.com/Roberto2194/SandwichUp">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SandwichUp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-</a> 
-
-</tr>
-			</tbody>
-		</table>
-	</center>
+<a href="https://github.com/Roberto2194/Snake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+</a>&nbsp; 
+<a href="https://github.com/Roberto2194/Snake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+</a>
+</center>
