@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi, I'm Roberto</h1>
-<h3 align="center">Mobile Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
 <a href="https://twitter.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
