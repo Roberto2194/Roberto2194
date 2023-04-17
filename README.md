@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 <p align="left"> 
   
   <!-- MOBILE -->
-   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.apple.com/xcode/swiftui/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
   </a> 
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
@@ -62,7 +65,7 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
   </a> 
   
   <!-- DATABASES -->
