@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi, I'm Roberto</h1>
-<h3 align="center">Software Engineer</h3>
+I am a Software Engineer specialized in Native Mobile Development with over 3 years of professional experience in the field. During my time with the Apple Developer Academy, I have acquired a comprehensive knowledge of the iOS Application Development process by successfully developing several applications. The variety of projects in which I have subsequently worked on, during my years as a professional developer, allowed me to integrate Android Development skills into my technical background.
 
 <p align="center">
 <a href="https://twitter.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
@@ -29,6 +29,11 @@ Here are some ideas to get you started:
  ## 👨‍💻About Me:
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning 
+- ⚡ I'm a Computer Engineer student at the University of London
+- 🚀 I’m interested in Web & Mobile Development
+- 👨‍💻 All of my projects are available at [https://ajayaadhav.vercel.app/](https://ajayaadhav.vercel.app/)
+  <p align="center"> <img src="https://gpvc.arturio.dev/ajayaadhav10" alt="ajayaadhav10" /> </p>
+
 <!-- GitHub About me section end -->
 
 
