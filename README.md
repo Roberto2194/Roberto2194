@@ -16,7 +16,7 @@
 I am a <b>Software Engineer</b> specialized in Native Mobile Development with over 3 years of professional experience in the field.
 </p>
 
- ## 👨 About Me:
+ ## 👨 About Me
 
 <img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Roberto2194&theme=jolly&border_radius=5">
 
@@ -26,7 +26,7 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 - 👨‍💻 Web & Mobile Developer
 - 💻 Computer Science Student at the University of London
  
-## 🚀 Languages and Technologies:
+## 🚀 Languages and Technologies
 - **Mobile Development**
 	
 	<center>
