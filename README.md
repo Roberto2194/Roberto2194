@@ -28,8 +28,9 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 - 🎓 Apple Developer Academy Graduate
 
 <!-- GitHub Skills start -->
-## 🚀 Tools and Technologies:
+## 🚀 Languages and Technologies:
 - **Mobile Development**
+	
 	<center>
 		<table>
 			<tbody>
@@ -93,24 +94,24 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 			<tbody>
 				<tr>
 					<td align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-					</td>
-					<td align="center">
 						<span><strong>Python</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 					</td>
 					<td align="center">
 						<span><strong>Flask</strong></span><br/>
-						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499962-d32290cf-bf87-44f0-ac45-0914c488d2f3.jpg">
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232501087-9dfafe85-3a39-42ec-9f80-07c01d26b73d.png">
 					</td>
 					<td align="center">
 						<span><strong>Django</strong></span><br/>
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499968-889ea05f-395f-4554-a201-9dd13c502948.jpg">
 					</td>
 					<td align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+					</td>
+					<td align="center">
 						<span><strong>MySql</strong></span><br/>
-						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499971-0d2e7c8a-8a45-498d-8efa-dea779b8c870.jpg">
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232500725-13395e7a-93b0-43f0-a9c5-452f133f18db.png">
 					</td>
 					<td align="center">
 						<span><strong>Postgres</strong></span><br/>
@@ -120,62 +121,41 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 			</tbody>
 		</table>
 	</center>
-- **Designing Softwares:**
+- **Tools**
 	<center>
 		<table>
 			<tbody>
 				<tr>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Figma</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 					</td>
-					<td width="25%" align="center">
-						<span><strong>Canva</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
+					<td align="center">
+						<span><strong>Sketch</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg">
 					</td>
-					</tr>
-			</tbody>
-		</table>
-	</center>
-- **Others**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Linux</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg">
+					<td align="center">
+						<span><strong>Jira</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
 					</td>
-					<td width="25%" align="center">
-						<span><strong>git</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+					<td align="center">
+						<span><strong>Trello</strong></span><br/>
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232511153-52af0f95-9957-44f0-b9a2-c2ee0ddd9afe.png">
 					</td>
-     <td width="25%" align="center">
-						<span><strong>github</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
+					<td align="center">
+						<span><strong>Docker</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 					</td>
-      <td width="25%" align="center">
-						<span><strong>Bitbucket</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-official.svg">
+					<td align="center">
+						<span><strong>Git</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 					</td>
-
-     <td width="25%" align="center">
-						<span><strong>Arduino</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
-					</td>
-    
-     <td width="25%" align="center">
-						<span><strong>Flask</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Matlab</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
+					<td align="center">
+						<span><strong>GitLab</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
 					</td>
 				</tr>
 			</tbody>
 		</table>
 	</center>
 <!-- GitHub Skills end -->
-
-
