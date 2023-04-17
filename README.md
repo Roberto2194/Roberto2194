@@ -6,7 +6,7 @@
 	I am a <b>Software Engineer</b> specialized in <b>Native Mobile Development</b> with over 3 years of professional experience in the field.
 </p>
 
- ## 🧑 About Me
+ ## 🧔 About Me
 
 <img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Roberto2194&theme=jolly&border_radius=5">
 
