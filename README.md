@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...👨
 - ⚡ Fun fact: ...✨
 -->
-![header-programming](https://user-images.githubusercontent.com/57627290/232514929-7b2323da-2a58-448b-905f-4b49ee88749c.gif)
+![mario-programming](https://user-images.githubusercontent.com/57627290/232528840-e5c53682-a22c-486f-925a-6eeeef68ca99.gif)
 
 <h1 align="center">👋 Hi, I'm Roberto</h1>
 
