@@ -9,27 +9,26 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: ...💻
+- 😄 Pronouns: ...👨
 - ⚡ Fun fact: ...
 -->
 ![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h1 align="center">Hi, I'm Roberto</h1>
+<h1 align="center">👋 Hi, I'm Roberto</h1>
 
 <p align="center">
 I am a <b>Software Engineer</b> specialized in Native Mobile Development with over 3 years of professional experience in the field.
 </p>
 
  <!-- GitHub About me section start -->
- ## 👨‍💻About Me:
-- ⚡ Web & Mobile Developer
-- 🔭 Computer Science student at the University of London
-- 🚀 Apple Developer Academy Graduate
-- 👨‍💻 All of my projects are available at 
+ ## 👨 About Me:
+- 👨‍💻 Web & Mobile Developer
+- 💻 Computer Science Student at the University of London
+- 🎓 Apple Developer Academy Graduate
 
 <!-- GitHub Skills start -->
-## 🎓Tools and Technologies:
+## 🚀 Tools and Technologies:
 - **Mobile Development**
 	<center>
 		<table>
@@ -40,8 +39,16 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 					</td>
 					<td width="25%" align="center">
+						<span><strong>SwiftUI</strong></span><br/>
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232493297-693b08aa-a142-44c2-a63d-a60ba8493809.png">
+					</td>
+					<td width="25%" align="center">
 						<span><strong>Kotlin</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Compose</strong></span><br/>
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232493693-53f16a93-1ba7-4d4f-b113-d7acb5deb757.png">
 					</td>
 				</tr>
 			</tbody>
@@ -66,7 +73,7 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 					</td>
 					<td align="center">
 						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 					</td>
 					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
@@ -80,69 +87,34 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 			</tbody>
 		</table>
 	</center>
-- **Databases**
+- **Backend Development**
 	<center>
 		<table>
 			<tbody>
 				<tr>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Flask</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Django</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+					</td>
 					<td width="25%" align="center">
 						<span><strong>MySql</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 					</td>
 					<td width="25%" align="center">
-						<span><strong>Hive</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **web Hosting Platforms**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Heroku</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Netlify</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg">
-					</td>
-     
-     <td width="25%" align="center">
-						<span><strong>Github pages</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg">
-					</td>
-					     <td width="25%" align="center">
-						<span><strong>Vercel</strong></span><br/>
-						<img height="64px" width="64px" src="https://github.com/wappalyzer/wappalyzer/blob/master/src/drivers/webextension/images/icons/vercel.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **AI/ML**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Tensorflow</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>OpenCV</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
-					</td>
-     <td width="25%" align="center">
-						<span><strong>PyTorch</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-					</td>
-      <td width="25%" align="center">
-						<span><strong>NumPy</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg">
+						<span><strong>Postgres</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 					</td>
 				</tr>
 			</tbody>
@@ -162,28 +134,6 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg">
 					</td>
 					</tr>
-			</tbody>
-		</table>
-	</center>
-- **Cloud Platforms**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>IBM</strong></span><br/>
-						<img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>AWS</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg">
-					</td>
-     
-     <td width="25%" align="center">
-						<span><strong>Azure</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
-					</td>
-				</tr>
 			</tbody>
 		</table>
 	</center>
@@ -228,31 +178,4 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 	</center>
 <!-- GitHub Skills end -->
 
-<!-- GitHub About me section end -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  <!-- MOBILE -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> 
-  
-  <!-- FRONT-END -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
- 
-  <!-- BACK-END -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> 
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-   
-</p>
 
