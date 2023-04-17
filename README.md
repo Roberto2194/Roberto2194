@@ -102,15 +102,15 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 					</td>
 					<td align="center">
 						<span><strong>Flask</strong></span><br/>
-						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499962-d32290cf-bf87-44f0-ac45-0914c488d2f3.jpg">
 					</td>
 					<td align="center">
 						<span><strong>Django</strong></span><br/>
-						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499968-889ea05f-395f-4554-a201-9dd13c502948.jpg">
 					</td>
 					<td align="center">
 						<span><strong>MySql</strong></span><br/>
-						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499971-0d2e7c8a-8a45-498d-8efa-dea779b8c870.jpg">
 					</td>
 					<td align="center">
 						<span><strong>Postgres</strong></span><br/>
