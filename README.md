@@ -23,13 +23,12 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 
  <!-- GitHub About me section start -->
  ## 👨‍💻About Me:
-- ⚡ I’m interested in Web & Mobile Development
+- ⚡ Web & Mobile Developer
 - 🔭 Computer Science student at the University of London
 - 🚀 Apple Developer Academy Graduate
 - 👨‍💻 All of my projects are available at 
 
 <!-- GitHub About me section end -->
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
