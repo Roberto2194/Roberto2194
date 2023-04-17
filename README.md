@@ -23,8 +23,8 @@
 - 👨‍💻 Web & Native Mobile Developer
 - 💻 Computer Science Student at the University of London
 - 🎓 Apple Developer Academy Graduate
-- 👨‍💻 Web & Mobile Developer
-- 💻 Computer Science Student at the University of London
+- 🔭 Clean Code and Best Procedures fanatic
+- ⚡ Algo & DS Lover
  
 ## 🚀 Languages and Technologies
 - **Mobile Development**
