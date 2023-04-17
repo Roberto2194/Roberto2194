@@ -13,7 +13,7 @@
 <h1 align="center">👋 Hi, I'm Roberto</h1>
 
 <p align="center">
-I am a <b>Software Engineer</b> specialized in Native Mobile Development with over 3 years of professional experience in the field.
+	I am a <b>Software Engineer</b> specialized in <b>Native Mobile Development</b> with over 3 years of professional experience in the field.
 </p>
 
  ## 👨 About Me
