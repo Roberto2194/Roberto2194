@@ -18,9 +18,20 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="mystyle.css">
+<link rel="stylesheet" href="devicon.min.css">
 </head>
 <body>
+<!--  for devicon plain version -->
+<i class="devicon-devicon-plain"></i>
+
+<!--  for devicon plain version with wordmark -->
+<i class="devicon-devicon-plain-wordmark"></i>
+
+<!--  for devicon plain version colored with devicon main color -->
+<i class="devicon-devicon-plain colored"></i>
+
+<!--  for devicon plain version with wordmark colored with devicon main color -->
+<i class="devicon-devicon-plain-wordmark colored"></i>
 
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">Mobile Software Engineer</h3>
