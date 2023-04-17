@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 ![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 <h1 align="center">Hi, I'm Roberto</h1>
-I am a Software Engineer specialized in Native Mobile Development with over 3 years of professional experience in the field. During my time with the Apple Developer Academy, I have acquired a comprehensive knowledge of the iOS Application Development process by successfully developing several applications. The variety of projects in which I have subsequently worked on, during my years as a professional developer, allowed me to integrate Android Development skills into my technical background.
-
 <p align="center">
 <a href="https://twitter.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajay-aadhav-251773170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
 <a href="https://fb.com/ajayaadhav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayaadhav10" height="30" width="40" /></a>
 <a href="https://instagram.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+I am a Software Engineer specialized in Native Mobile Development with over 3 years of professional experience in the field. During my time with the Apple Developer Academy, I have acquired a comprehensive knowledge of the iOS Application Development process by successfully developing several applications. The variety of projects in which I have subsequently worked on, during my years as a professional developer, allowed me to integrate Android Development skills into my technical background.
 </p>
 
  <!-- GitHub About me section start -->
