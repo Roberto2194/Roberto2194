@@ -15,8 +15,22 @@ Here are some ideas to get you started:
 -->
 ![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
-<h1 align="center">Hi 👋, I'm Roberto</h1>
+<h1 align="center">Hi, I'm Roberto</h1>
 <h3 align="center">Mobile Software Engineer</h3>
+
+<p align="center">
+<a href="https://twitter.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayaadhav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-aadhav-251773170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-aadhav-251773170" height="30" width="40" /></a>
+<a href="https://fb.com/ajayaadhav10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ajayaadhav10" height="30" width="40" /></a>
+<a href="https://instagram.com/ajayaadhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayaadhav" height="30" width="40" /></a>
+</p>
+
+ <!-- GitHub About me section start -->
+ ## 👨‍💻About Me:
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning 
+<!-- GitHub About me section end -->
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
