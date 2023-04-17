@@ -20,7 +20,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Roberto2194&theme=jolly&border_radius=5">
 
-- 👨‍💻 Web & Mobile Developer
+- 👨‍💻 Web & Native Mobile Developer
 - 💻 Computer Science Student at the University of London
 - 🎓 Apple Developer Academy Graduate
 - 👨‍💻 Web & Mobile Developer
