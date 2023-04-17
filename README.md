@@ -31,8 +31,7 @@ I am a Software Engineer specialized in Native Mobile Development with over 3 ye
 - 🌱 I’m currently learning 
 - ⚡ I'm a Computer Engineer student at the University of London
 - 🚀 I’m interested in Web & Mobile Development
-- 👨‍💻 All of my projects are available at [https://ajayaadhav.vercel.app/](https://ajayaadhav.vercel.app/)
-  <p align="center"> <img src="https://gpvc.arturio.dev/ajayaadhav10" alt="ajayaadhav10" /> </p>
+- 👨‍💻 All of my projects are available at 
 
 <!-- GitHub About me section end -->
 
