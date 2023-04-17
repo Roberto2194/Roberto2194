@@ -50,5 +50,5 @@ Here are some ideas to get you started:
   
 </p>
 
-</body>
+</body> 
 </html>
