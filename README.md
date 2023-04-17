@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">Mobile Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -45,10 +44,4 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="background-color: white"/>
   
 </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roberto2194&show_icons=true&locale=en&layout=compact" alt="roberto2194" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roberto2194&show_icons=true&locale=en" alt="roberto2194" /></p>
 
