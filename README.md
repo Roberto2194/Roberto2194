@@ -16,11 +16,17 @@
 I am a <b>Software Engineer</b> specialized in Native Mobile Development with over 3 years of professional experience in the field.
 </p>
 
+<div align="center">
+	
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Roberto2194&theme=jolly&border_radius=5)](https://git.io/streak-stats)
+	
+</div>
+	
  ## 👨 About Me:
 - 👨‍💻 Web & Mobile Developer
 - 💻 Computer Science Student at the University of London
 - 🎓 Apple Developer Academy Graduate
-
+	
 ## 🚀 Languages and Technologies:
 - **Mobile Development**
 	
@@ -151,4 +157,3 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 			</tbody>
 		</table>
 	</center>
-<!-- GitHub Skills end -->
