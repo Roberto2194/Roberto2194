@@ -34,19 +34,19 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 		<table>
 			<tbody>
 				<tr>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Swift</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>SwiftUI</strong></span><br/>
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232493297-693b08aa-a142-44c2-a63d-a60ba8493809.png">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Kotlin</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Compose</strong></span><br/>
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232493693-53f16a93-1ba7-4d4f-b113-d7acb5deb757.png">
 					</td>
@@ -92,27 +92,27 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 		<table>
 			<tbody>
 				<tr>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Java</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Python</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Flask</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Django</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>MySql</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 					</td>
-					<td width="25%" align="center">
+					<td align="center">
 						<span><strong>Postgres</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 					</td>
