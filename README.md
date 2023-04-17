@@ -1,9 +1,4 @@
 <!--
-### Hi there 👋
-**Roberto2194/Roberto2194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -11,9 +6,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...💻
 - 😄 Pronouns: ...👨
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...✨
 -->
-![banner](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![header-programming](https://user-images.githubusercontent.com/57627290/232514929-7b2323da-2a58-448b-905f-4b49ee88749c.gif)
 
 <h1 align="center">👋 Hi, I'm Roberto</h1>
 
