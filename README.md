@@ -164,10 +164,10 @@
 ## Projects
 
 <a href="https://github.com/Roberto2194/CitiZen">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=CitiZen&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=CitiZen&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
 <a href="https://github.com/Roberto2194/SweatToUnlock">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SweatToUnlock&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SweatToUnlock&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 
