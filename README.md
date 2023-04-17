@@ -85,7 +85,7 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
 					</td>
 					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
+						<span><strong>Angular</strong></span><br/>
 						<img height="64px" width="64px" src="https://angular.io/assets/images/logos/angular/angular.svg">
 					</td>
 				</tr>
