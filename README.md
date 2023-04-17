@@ -16,13 +16,11 @@
 I am a <b>Software Engineer</b> specialized in Native Mobile Development with over 3 years of professional experience in the field.
 </p>
 
- <!-- GitHub About me section start -->
  ## 👨 About Me:
 - 👨‍💻 Web & Mobile Developer
 - 💻 Computer Science Student at the University of London
 - 🎓 Apple Developer Academy Graduate
 
-<!-- GitHub Skills start -->
 ## 🚀 Languages and Technologies:
 - **Mobile Development**
 	
