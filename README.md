@@ -141,6 +141,10 @@ I am a <b>Software Engineer</b> specialized in Native Mobile Development with ov
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232511153-52af0f95-9957-44f0-b9a2-c2ee0ddd9afe.png">
 					</td>
 					<td align="center">
+						<span><strong>Postman</strong></span><br/>
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232529515-0a3bdd74-e901-4f72-8b96-dee958e64eea.svg">
+					</td>
+					<td align="center">
 						<span><strong>Docker</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 					</td>
