@@ -1,13 +1,3 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...💻
-- 😄 Pronouns: ...👨
-- ⚡ Fun fact: ...✨
--->
 ![mario-programming](https://user-images.githubusercontent.com/57627290/232532490-3b6499c0-dd8c-4d9d-9e74-9190ed4a486c.gif)
 
 <h1 align="center">👋 Hi, I'm Roberto</h1>
@@ -163,11 +153,7 @@
 
 ## Projects
 
-<a href="https://github.com/Roberto2194/CitiZen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=CitiZen&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
-</a> &nbsp;
 
-<a href="https://github.com/Roberto2194/SweatToUnlock">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SweatToUnlock&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+<a href="https://github.com/Roberto2194/Snake">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
-
