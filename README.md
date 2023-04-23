@@ -153,7 +153,19 @@
 	</center>
 
 ## ⚙️ Projects
+
+- **Computer Science**
+<center>
+<a href="https://github.com/Roberto2194/DataStructuresAndAlgorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=DataStructuresAndAlgorithms&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+</a>&nbsp; 
+<a href="https://github.com/Roberto2194/DataStructuresAndAlgorithms">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=DataStructuresAndAlgorithms&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+</a><br><br>
+</center>
+
 - **iOS**
+	
 <center>
 <a href="https://github.com/Roberto2194/SandwichUp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SandwichUp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
