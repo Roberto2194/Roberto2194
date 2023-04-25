@@ -15,7 +15,7 @@
 - 🎓 Apple Developer Academy Graduate
 - 🔍 Clean Code and Best Procedures Fanatic
 - ❤️ Algorithms & Data Structures Lover
-- 📬 Reach me on <a href="https://www.linkedin.com/in/roberto-liccardo/">LinkedIn</a>
+- 📬 Reach me out on <a href="https://www.linkedin.com/in/roberto-liccardo/">LinkedIn</a>
 
 ## 🚀 Languages and Technologies
 - **Mobile Development**
