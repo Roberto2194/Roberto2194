@@ -95,10 +95,6 @@
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499968-889ea05f-395f-4554-a201-9dd13c502948.jpg">
 					</td>
 					<td align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-					</td>
-					<td align="center">
 						<span><strong>MySql</strong></span><br/>
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232500725-13395e7a-93b0-43f0-a9c5-452f133f18db.png">
 					</td>
