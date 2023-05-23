@@ -62,16 +62,16 @@
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 					</td>
 					<td align="center">
+						<span><strong>HTML</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+					</td>
+					<td align="center">
 						<span><strong>CSS</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 					</td>
 					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-					</td>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 					</td>
 				</tr>
 			</tbody>
