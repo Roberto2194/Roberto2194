@@ -84,7 +84,7 @@
 				<tr>
 					<td align="center">
 						<span><strong>Python</strong></span><br/>
-						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+						<img height="50px" width="50px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)">
 					</td>
 					<td align="center">
 						<span><strong>Flask</strong></span><br/>
@@ -93,6 +93,10 @@
 					<td align="center">
 						<span><strong>Django</strong></span><br/>
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499968-889ea05f-395f-4554-a201-9dd13c502948.jpg">
+					</td>
+					<td align="center">
+						<span><strong>SQLite</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 					</td>
 					<td align="center">
 						<span><strong>MySql</strong></span><br/>
