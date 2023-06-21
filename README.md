@@ -165,7 +165,7 @@
 </a><br><br>
 </center>
 
-- **iOS**
+- **Mobile**
 	
 <center>
 <a href="https://github.com/Roberto2194/CitiZen">
@@ -176,7 +176,7 @@
 </a><br><br>
 </center>
 
-- **Android**
+- **Web**
 
 <center>
 <a href="https://github.com/Roberto2194/Snake">
