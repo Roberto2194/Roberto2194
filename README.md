@@ -190,8 +190,8 @@
 - **Misc.**
 
 <center>
-<a href="https://github.com/Roberto2194/Memory-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Memory-Game&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+<a href="https://github.com/Roberto2194/Memory">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Memory&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>&nbsp; 
 <a href="https://github.com/Roberto2194/Snake">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
