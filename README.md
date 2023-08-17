@@ -11,10 +11,10 @@
 <img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Roberto2194&theme=jolly&border_radius=5">
 
 - 👨‍💻 Mobile & Web Developer
-- 💻 Computer Science Student at the University of London
+- 💻 Computer Science student at the University of London
 - 🎓 Apple Developer Academy Graduate
-- 🔍 Clean Code and Best Procedures Fanatic
-- ❤️ Algorithms & Data Structures Lover
+- 🔍 Clean Code and Best Procedures fanatic
+- ❤️ Algorithms & Data Structures lover
 - 📬 Reach me out on <a href="https://www.linkedin.com/in/roberto-liccardo/">LinkedIn</a>
 
 ## 🚀 Languages and Technologies
