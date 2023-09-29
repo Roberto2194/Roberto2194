@@ -8,7 +8,7 @@
 
  ## 🧔 About Me
 
-<img align="right" alt="Coding" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=Roberto2194&theme=jolly&border_radius=5">
+<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=Roberto2194&show_icons=true">
 
 - 👨‍💻 Mobile & Web Developer
 - 💻 Computer Science student at the University of London
