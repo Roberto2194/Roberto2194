@@ -70,6 +70,10 @@
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 					</td>
 					<td align="center">
+						<span><strong>Sass</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+					</td>
+					<td align="center">
 						<span><strong>Bootstrap</strong></span><br/>
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 					</td>
