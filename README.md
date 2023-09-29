@@ -8,7 +8,7 @@
 
  ## 🧔 About Me
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Roberto2194&theme=jolly&border_radius=5)
+<img align="right" alt="Coding" width="400" src="https://streak-stats.demolab.com?user=Roberto2194&theme=jolly&border_radius=5">
 
 - 👨‍💻 Mobile & Web Developer
 - 💻 Computer Science student at the University of London
