@@ -8,7 +8,7 @@
 
  ## 🧔 About Me
 
-<img align="right" alt="Coding" width="400" src="https://github-readme-stats.vercel.app/api?username=Roberto2194&show_icons=true">
+<img align="right" alt="Coding" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 
 - 👨‍💻 Mobile & Web Developer
 - 💻 Computer Science student at the University of London
