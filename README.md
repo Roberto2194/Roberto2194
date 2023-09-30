@@ -164,29 +164,29 @@
 	
 <center>
 <a href="https://github.com/Roberto2194/CitiZen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=CitiZen&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=CitiZen&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 <a href="https://github.com/Roberto2194/SandwichUp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SandwichUp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=SandwichUp&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a><br><br>
 </center>
 
 - **Web**
 
 <center>
-<a href="https://github.com/Roberto2194/Network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Network&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+<a href="https://github.com/Roberto2194/Blog">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Blog&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 <a href="https://github.com/Roberto2194/Network">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Network&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Network&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 </center>
 <center>
 <a href="https://github.com/Roberto2194/Commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Commerce&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Commerce&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 <a href="https://github.com/Roberto2194/Mail">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Mail&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Mail&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a><br><br>
 </center>
  
@@ -194,9 +194,9 @@
 
 <center>
 <a href="https://github.com/Roberto2194/Memory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Memory&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Memory&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 <a href="https://github.com/Roberto2194/Snake-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Roberto2194&repo=Snake&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" />
 </a>
 </center>
