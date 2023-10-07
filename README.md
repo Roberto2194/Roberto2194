@@ -91,12 +91,20 @@
 						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 					</td>
 					<td align="center">
+						<span><strong>Django</strong></span><br/>
+						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499968-889ea05f-395f-4554-a201-9dd13c502948.jpg">
+					</td>
+					<td align="center">
 						<span><strong>Flask</strong></span><br/>
 						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232501087-9dfafe85-3a39-42ec-9f80-07c01d26b73d.png">
 					</td>
 					<td align="center">
-						<span><strong>Django</strong></span><br/>
-						<img height="50px" width="50px" src="https://user-images.githubusercontent.com/57627290/232499968-889ea05f-395f-4554-a201-9dd13c502948.jpg">
+						<span><strong>Postgres</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+					</td>
+					<td align="center">
+						<span><strong>MySQL</strong></span><br/>
+						<img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 					</td>
 					<td align="center">
 						<span><strong>SQLite</strong></span><br/>
