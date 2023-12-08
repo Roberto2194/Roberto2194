@@ -10,7 +10,7 @@
 
 <img align="right" alt="Coding" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto2194&layout=compact">
 
-- 👨‍💻 Mobile & Web Developer
+- 👨‍💻 Software Engineer at IBM
 - 💻 Computer Science student at the University of London
 - 🎓 Apple Developer Academy Graduate
 - 🔍 Clean Code and Best Procedures fanatic
