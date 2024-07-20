@@ -2,9 +2,7 @@
 
 <h1 align="center">👋 Hi, I'm Roberto</h1>
 
-<p align="center">
-	I am a <b>Software Engineer</b> specialized in <b>Native Mobile Development</b> with over 4 years of professional experience in the field.
-</p>
+I'm a <b>Software Engineer</b> specializing in Native Mobile Development with over 5 years of professional experience in the field. Proficient in both iOS and Android development, holding a degree in Computer Science with a specialization in Data Science and Artificial Intelligence at the University of London with honors. Passionate about all aspects of Computer Science and an advocate for Clean Code and Best Practices in Software Development.
 
  ## 🧔 About Me
 
