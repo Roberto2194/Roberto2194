@@ -2,17 +2,17 @@
 
 <h1 align="center">Hi, I'm Roberto! 👋</h1>
 
-I'm a <b>Software Engineer</b> specializing in Native Mobile Development with over 5 years of professional experience in the field. Proficient in both iOS and Android development, holding a degree in Computer Science with a specialization in Data Science and Artificial Intelligence at the University of London with honors. Passionate about all aspects of Computer Science and an advocate for Clean Code and Best Practices in Software Development.
+I'm a **Software Engineer** specializing in Native Mobile Development with over 5 years of professional experience in the field. Proficient in both iOS and Android development, holding a degree in Computer Science with a specialization in Data Science and Artificial Intelligence at the University of London with honors. Passionate about all aspects of Computer Science and an advocate for Clean Code and Best Practices in Software Development.
 
- ## 🧔 About Me
+## 🧔 About Me
 
 <img align="right" alt="Coding" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto2194&layout=compact">
 
 - 👨‍💻 Software Engineer at IBM
 - 💻 Computer Science student at the University of London
 - 🎓 Apple Developer Academy Graduate
-- 🔍 Clean Code and Best Procedures fanatic
-- ❤️ Algorithms & Data Structures lover
+- 🔍 Clean Code and Best Practices enthusiast
+- ❤️ Passionate about Algorithms & Data Structures
 - 📬 Reach me out on <a href="https://www.linkedin.com/in/roberto-liccardo/">LinkedIn</a>
 
 ## 🚀 Languages and Technologies
