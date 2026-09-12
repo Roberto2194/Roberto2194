@@ -6,8 +6,6 @@ I'm a **Software Engineer** specializing in Native Mobile Development with over 
 
 ## 🧔 About Me
 
-<img align="right" alt="Coding" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roberto2194&layout=compact">
-
 - 👨‍💻 Mobile Software Engineer at IBM
 - 💻 Computer Science alumni at the University of London
 - 🎓 Apple Developer Academy Graduate
